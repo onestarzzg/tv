@@ -2030,6 +2030,8 @@ NHK WORLD-JAPAN,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp
 NHK WORLD-JAPAN,http://iptv-iptv.cf/qq6491443/UBlive.php?id=117
 NHK 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK 教育-东京,p5p://0198.02686.cc:168711/5d414f68000e596775f79b8f963b1f60.ts
+NHK 综合-东京,http://193.42.99.133:23455/NHKHD/playlist.m3u8
+NHK 综合-东京,http://203.162.235.41:16903
 NHK 综合-东京,p5p://0198.02686.cc:168711/5d414f680002d76075f7989dcc8ec320.ts
 NHK 综合-大阪,p5p://0198.02686.cc:168711/5d414f6c00077b3d75f7a96d657b07ca.ts
 Gong TV,http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
@@ -2354,8 +2356,9 @@ IPTV萌宠TV,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/32
 Dear John∣比莉,https://vd2.bdstatic.com/mda-kmifwgm76s2h2ztf/v1-cae/1080p/mda-kmifwgm76s2h2ztf.mp4
 踏山河∣是七叔呢,https://vd2.bdstatic.com/mda-kmgq8qcd4r7sc6s4/sc/cae_h264_clips/1608197399/mda-kmgq8qcd4r7sc6s4.mp4
 踏山河∣是七叔呢,https://vd3.bdstatic.com/mda-km2qk3btdfsfbq0t/v1-cae/1080p/mda-km2qk3btdfsfbq0t.mp4
-浪子闲话∣花僮,https://vd2.bdstatic.com/mda-km1rd21ad4jac177/v1-cae/1080p/mda-km1rd21ad4jac177.mp4
-浪子闲话∣花僮,https://vd2.bdstatic.com/mda-kkjkqate3kss062t/sc/cae_h264_clips/1605855141/mda-kkjkqate3kss062t.mp4
+踏山河∣是七叔呢,https://vd2.bdstatic.com/mda-km1zzuhn9m8ju4zs/sc/cae_h264_clips/1606950896/mda-km1zzuhn9m8ju4zs.mp4
+浪子闲话∣花僮,https://vd3.bdstatic.com/mda-km4ui0sq8pbvpgqv/sc/cae_h264_clips/1607171825/mda-km4ui0sq8pbvpgqv.mp4
+燕无歇∣蒋雪儿,https://vd2.bdstatic.com/mda-km734yza0pspw4md/v1-cae/1080p/mda-km734yza0pspw4md.mp4
 燕无歇∣蒋雪儿,https://vd4.bdstatic.com/mda-kkmhyk5qaqsmpvwv/v1-cae/1080p/mda-kkmhyk5qaqsmpvwv.mp4
 厚颜无耻∣曲肖冰,https://vd3.bdstatic.com/mda-kj9bs47xc9vkk3gb/sc/cae_h264_clips/mda-kj9bs47xc9vkk3gb.mp4
 虞兮叹∣闻人听书,https://vd4.bdstatic.com/mda-kmev540yjmk8797r/sc/cae_h264_clips/1608038311/mda-kmev540yjmk8797r.mp4
@@ -2364,6 +2367,9 @@ Dear John∣比莉,https://vd2.bdstatic.com/mda-kmifwgm76s2h2ztf/v1-cae/1080p/md
 晚夜微雨问海棠∣陈亦浼 喧笑lirz,https://vd4.bdstatic.com/mda-kj5tdzff794w2fy5/hd/mda-kj5tdzff794w2fy5.mp4
 虞美人——春花秋月何时了∣Winky诗,https://vd2.bdstatic.com/mda-kii7vnxhtbsmdce1/hd/mda-kii7vnxhtbsmdce1.mp4
 君临天下∣排骨教主,https://vd4.bdstatic.com/mda-kmscwcthetetjv4g/sc/cae_h264_clips/1609032056/mda-kmscwcthetetjv4g.mp4
+寒衣调∣河图,https://vd3.bdstatic.com/mda-kkghyuhcuev0dr1n/sc/mda-kkghyuhcuev0dr1n.mp4
+归寻∣等什么君,https://vd4.bdstatic.com/mda-kmwfwa4b6ymeb8wv/v1-cae/1080p/mda-kmwfwa4b6ymeb8wv.mp4
+相守∣周深,https://vd3.bdstatic.com/mda-kmwjtsag9601zn4c/sc/cae_h264_clips/1609412678/mda-kmwjtsag9601zn4c.mp4
 世界这么大还是遇见你∣程响,https://vd4.bdstatic.com/mda-kcdnedtd4cv60xwj/v1-cae/sc/mda-kcdnedtd4cv60xwj.mp4
 世界这么大还是遇见你∣程响,https://vd3.bdstatic.com/mda-kfcuziicx1p41mku/sc/mda-kfcuziicx1p41mku.mp4
 笑纳∣花僮,https://vd2.bdstatic.com/mda-kitz43zbndne7bj4/v1-cae/1080p/mda-kitz43zbndne7bj4.mp4
@@ -2388,14 +2394,17 @@ Dear John∣比莉,https://vd2.bdstatic.com/mda-kmifwgm76s2h2ztf/v1-cae/1080p/md
 不谓侠∣CRITTY,https://vd3.bdstatic.com/mda-kb31qev3dp4np18k/v1-cae/sc/mda-kb31qev3dp4np18k.mp4
 不谓侠∣CRITTY,https://kvideo01.youju.sohu.com/ea7557bc-5c41-46d3-818c-997929e1e89c2_0_0.mp4
 应怀酒∣司南,https://kvideo01.youju.sohu.com/e2fed3dd-02ff-44fa-a41b-9f3070221dbe2_0_0.mp4
-春山恨,https://vd3.bdstatic.com/mda-kihqq8racvak5nss/v1-cae/1080p/mda-kihqq8racvak5nss.mp4
 又见春山恨,https://vd2.bdstatic.com/mda-jbgn4uqd5j212s8v/sc/mda-jbgn4uqd5j212s8v.mp4
-爱存在∣王靖雯,https://vd2.bdstatic.com/mda-khfdtinhu94x59df/sc/mda-khfdtinhu94x59df.mp4
+一人我饮酒醉∣李玉刚 孙霄磊,https://vd3.bdstatic.com/mda-ikgnztx2e3jpgb30/sc/mda-ikgnztx2e3jpgb30.mp4
+惊雷∣梦柯,https://vd4.bdstatic.com/mda-kcqhsiyb09g5gh9y/v1-cae/mda-kcqhsiyb09g5gh9y.mp4
+惊雷古风版∣倪浩毅,https://vd2.bdstatic.com/mda-kk4mvt6jnf3qq63x/sc/cae_h264_clips/1604618701/mda-kk4mvt6jnf3qq63x.mp4
+红颜旧∣刘涛,https://vd3.bdstatic.com/mda-idsdkenfxeqcqj6w/logo/sc/mda-idsdkenfxeqcqj6w.mp4
 不知所措∣王靖雯,https://vd3.bdstatic.com/mda-khnwxsmwa639xncj/v1-cae/1080p/mda-khnwxsmwa639xncj.mp4
+可可托海的牧羊人∣王琪,https://vd3.bdstatic.com/mda-km7q1f3yvv1tt64c/sc/cae_h264_clips/1607419668/mda-km7q1f3yvv1tt64c.mp4
 你的万水千山∣海来阿木,https://vd3.bdstatic.com/mda-khetpkgi8bjd1h00/v1-cae/1080p/mda-khetpkgi8bjd1h00.mp4
 青山一别∣海来阿木,https://vd3.bdstatic.com/mda-ke5rs9djdf5ddqss/v1-cae/sc/mda-ke5rs9djdf5ddqss.mp4
+点歌的人∣海来阿木,https://vd4.bdstatic.com/mda-kdqkh702e7zmzqw1/v1-cae/sc/mda-kdqkh702e7zmzqw1.mp4
 点歌的人∣海来阿木,https://vd2.bdstatic.com/mda-khpdk34djdum7dxc/sc/cae_h264_clips/mda-khpdk34djdum7dxc.mp4
-点歌的人∣海来阿木,http://play.bgp.jmpaper.cn/video/m3u8/2020/06/20/6c53fdfd/playlist.m3u8
 离人殇∣赵方婧,https://vd3.bdstatic.com/mda-kfpc0m2wddrukkmx/hd/mda-kfpc0m2wddrukkmx.mp4
 山外小楼夜听雨∣任然,https://vd2.bdstatic.com/mda-kf6anigvtin4a1f1/v1-cae/1080p/mda-kf6anigvtin4a1f1.mp4
 咫尺相思｜小曲兒,https://vd1.bdstatic.com/mda-hhm5646vb86wnfyz/mda-hhm5646vb86wnfyz.mp4
